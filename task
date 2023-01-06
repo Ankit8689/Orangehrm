@@ -23,4 +23,5 @@ public class $id1 {
 	return sum;
 
 	}
+	System.out.println("hello");
 }
